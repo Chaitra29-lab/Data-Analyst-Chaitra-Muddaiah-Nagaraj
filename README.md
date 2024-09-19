@@ -8,7 +8,7 @@ Instructor: Prof. Mahmood Mortazavi Dehkordi, <br>
 Due Date: 18th September 2024 <br>
 </p>
 
-_
+___
 # [Project 1](https://chaitra29-lab.github.io/Project-1/)
 # Project Description: Implementation and Analysis of Safety-Issued Operating Permits Using AWS
 * The City of Vancouver requires a robust and efficient data platform to manage and analyze safety-issued operating permits for water systems, including cooling towers, water features, and other public systems.
@@ -31,7 +31,7 @@ _
 11. Data Visualization
 12. Data Publishing
 
-_
+___
 # [Project 2](https://chaitra29-lab.github.io/Project-2/)
 # Project Description: Data Protection, Governance, and Monitoring
 * The City of Vancouver requires a robust and efficient data platform to manage and analyze safety-issued operating permits for water systems, including cooling towers, water features, and other public systems.
@@ -45,7 +45,7 @@ _
 2. Data Governance
 3. Data Monitoring
 
-_
+___
 ## Summary of Insights
 - **Permit Issuance**: Analysis of the permits revealed which departments issued the most permits in 2024 and 2025, helping to adjust resources accordingly.
 - **Performance Trends**: Monthly and yearly trends helped city officials predict periods of high permit activity and improve resource planning.
