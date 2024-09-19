@@ -30,6 +30,7 @@ _
 10. Data Analysis
 11. Data Visualization
 12. Data Publishing
+
 _
 # [Project 2](https://chaitra29-lab.github.io/Project-2/)
 # Project Description: Data Protection, Governance, and Monitoring
@@ -43,6 +44,8 @@ _
 1. Data Protection
 2. Data Governance
 3. Data Monitoring
+
+_
 ## Summary of Insights
 - **Permit Issuance**: Analysis of the permits revealed which departments issued the most permits in 2024 and 2025, helping to adjust resources accordingly.
 - **Performance Trends**: Monthly and yearly trends helped city officials predict periods of high permit activity and improve resource planning.
